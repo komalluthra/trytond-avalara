@@ -1,3 +1,9 @@
+
+ image:: https://api.travis-ci.org/openlabs/trytond-avalara.svg?branch=develop
+   :target: https://travis-ci.org/openlabs/trytond-stock-lot-serial
+
+
+
 Tryton Avatax Integration
 =========================
 
